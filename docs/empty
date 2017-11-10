@@ -1,7 +1,0 @@
-docs
-~ $ git clone https://github.com/arielamccaffrey/arielamccaffrey.github.io
-~ $ cd arielamccaffrey.github.io
-~$echo "Welcome" > index.html
-~$git add --all
-~$git commit -m "Initial commit"
-~$git push -u origin master
